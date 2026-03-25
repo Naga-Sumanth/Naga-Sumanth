@@ -6,7 +6,7 @@
 <!--<h1 align="center">Hi, I'm Naga Sumanth 👋</h1>-->
 
 <p align="center">
-  Pre-Final Year CSE Student · AI Learner • Robotics Develope • Full Stack Builder
+  Pre-Final Year CSE Student · AI Learner • IoT Enthusiast • Full Stack Builder
 </p>
 
 
